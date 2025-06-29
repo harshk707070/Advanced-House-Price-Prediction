@@ -1,6 +1,10 @@
 # 🏠 House Prices: Advanced Regression Techniques
 
-This repository contains an exploratory data analysis (EDA) project using the **House Prices** dataset from Kaggle. The goal is to understand key patterns in the data and prepare it for building predictive regression models.
+This repository contains an exploratory data analysis (EDA) project using the **House Prices** dataset from Kaggle. 
+
+## 📌 Objective
+
+The primary goal of this project is to perform exploratory data analysis (EDA) on the Ames housing dataset to uncover trends and patterns that influence house prices, and to prepare the dataset for advanced regression modeling.
 
 ## 📁 Repository Structure
 ├── train.csv # Training dataset
